@@ -1,0 +1,24 @@
+{
+  "name": "cicd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sa9ra4ma/cicd.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sa9ra4ma/cicd/issues"
+  },
+  "homepage": "https://github.com/sa9ra4ma/cicd#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^27.0.6"
+  }
+}
