@@ -5,5 +5,5 @@ test('1 + 2 = 3', () => {
 })
 
 test('4 - 1 = 3', () => {
-    expect(calc.subtraction(4, 1)).toBe(2);
+    expect(calc.subtraction(4, 1)).toBe(3);
 })
