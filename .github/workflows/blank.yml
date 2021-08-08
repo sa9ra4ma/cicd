@@ -30,4 +30,4 @@ jobs:
         with:
           node-version: '10.x'
           
-      - run: node index.js
+      - run: npm test
